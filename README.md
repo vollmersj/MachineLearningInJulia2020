@@ -1,3 +1,7 @@
+# TPS 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vollmersj/MachineLearningInJulia2020/master?filepath=Start.ipynb)
+
 # Machine Learning in Julia using MLJ, JuliaCon2020
 
 Interactive tutorials for a workshop introducing the machine learning
